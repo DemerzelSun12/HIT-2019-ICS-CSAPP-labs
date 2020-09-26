@@ -1,6 +1,6 @@
 # HIT ICS 2019 labs
 
-HIT 2019 Introduction to Computer System experiments reports, final project, materials, exam papers and reference answer. 
+HIT 2019 Introduction to Computer System experiments reports, materials, final project, homework, exam papers and reference answer. 
 
 Please forgive the possible small errors in the experiments and reports. If there exists any mistake about these experiments, you're welcomed to contact me to discuss about it. 
 
