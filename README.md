@@ -1,13 +1,13 @@
 # HIT ICS 2019 labs
 
-8次实验
+HIT 2019 Introduction to Computer System experiments reports, final project, materials, exam papers and reference answer. 
 
-比CMU增加lab5，对应第七章
+Please forgive the possible small errors in the experiments and reports. If there exists any mistake about these experiments, you're welcomed to contact me to discuss about it. 
 
-malloclab之后的实验缺省
+There are 8 experiments and one final project, compared to CMU's experiment, HIT add a new Lab5 related to Chapter 7 in the book CSAPP. Some experiments may have some differences with CMU's experiments. HIT delete the experiments after malloclab.
 
-部分实验相对于CMU有更改
+When you learn from my experiment reports, please make sure that you learn it by yourself first! 
 
-部分地方书写可能有疏漏，见谅
+**Cheeting is not allowed in this course.**
 
-能搜到这里的，目的大家都懂，不过还是希望大家要弄明白实验，不要只是简单的copy，记得去了我的名字，我也要脸的...
+When you cite the corresponding materials, please indicate the source in accordance with the MIT license.
