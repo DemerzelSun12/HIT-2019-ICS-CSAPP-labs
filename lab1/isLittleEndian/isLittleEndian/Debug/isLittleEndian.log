@@ -1,0 +1,3 @@
+﻿  isLittleEndian.c
+D:\作业\计算机系统\lab1\isLittleEndian\isLittleEndian\isLittleEndian.c(11,1): warning C4047:  “初始化”:“int”与“int (__cdecl *)()”的间接级别不同
+  isLittleEndian.vcxproj -> D:\作业\计算机系统\lab1\isLittleEndian\Debug\isLittleEndian.exe

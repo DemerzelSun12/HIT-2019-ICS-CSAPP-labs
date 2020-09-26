@@ -1,0 +1,10 @@
+﻿  Datatype.c
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(39,9): warning C4477:  “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“double”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(40,9): warning C4477:  “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“double”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(42,9): warning C4477:  “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“int *”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(42,9): warning C4477:  “printf”: 格式字符串“%x”需要类型“unsigned int”的参数，但可变参数 3 拥有了类型“int *”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(47,9): warning C4477:  “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“int (__cdecl *)()”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(48,9): warning C4477:  “printf”: 格式字符串“%lx”需要类型“unsigned long”的参数，但可变参数 1 拥有了类型“int (__cdecl *)(const char *const ,...)”
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(20,1): warning C4305:  “初始化”: 从“double”到“float”截断
+D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(20,1): warning C4305: D:\作业\计算机系统\lab1\Datatype\Datatype\Datatype.c(43) : error C4700: 使用了未初始化的局部变量“day”
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(429,5): error MSB6006: “CL.exe”已退出，代码为 2。
